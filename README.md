@@ -1,4 +1,4 @@
-# AWS-SEVERLESS-DEPLOYMENT
+# AWS-SERVERLESS-DEPLOYMENT
 A serverless application to manage student details, built with AWS Lambda, API Gateway, and DynamoDB. 
 This project follows a fully serverless architecture, enabling cost-efficient, scalable, and easily deployable backend services.
 
